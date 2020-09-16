@@ -11,4 +11,5 @@
 > - **[2020/09/10](https://github.com/LoganiOS/MasteringSwift/blob/main/200910.md)**     조건문과 반복문, 제어 전달문
 > - **[2020/09/11](https://github.com/LoganiOS/MasteringSwift/blob/main/200911.md)**     옵셔널
 > - **[2020/09/14](https://github.com/LoganiOS/MasteringSwift/blob/main/200914.md)**     함수
+> - **[2020/09/16](https://github.com/LoganiOS/MasteringSwift/blob/main/200916.md)**     클로저
 
