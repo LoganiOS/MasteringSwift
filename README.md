@@ -14,4 +14,5 @@
 > - **[2020/09/16](https://github.com/LoganiOS/MasteringSwift/blob/main/200916.md)**     클로저 (Closure)
 > - **[2020/09/17](https://github.com/LoganiOS/MasteringSwift/blob/main/200917.md)**     튜플 (Tuple)
 > - **[2020/09/18](https://github.com/LoganiOS/MasteringSwift/blob/main/200918.md)**     문자열과 문자 (String and Character)
+> - **[2020/09/20](https://github.com/LoganiOS/MasteringSwift/blob/main/200920.md)**     컬렉션 (Array, Dictionary, Set)
 
