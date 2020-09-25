@@ -15,4 +15,5 @@
 > - **[2020/09/17](https://github.com/LoganiOS/MasteringSwift/blob/main/200917.md)**     튜플 (Tuple)
 > - **[2020/09/18](https://github.com/LoganiOS/MasteringSwift/blob/main/200918.md)**     문자열과 문자 (String and Character)
 > - **[2020/09/20](https://github.com/LoganiOS/MasteringSwift/blob/main/200920.md)**     컬렉션 (Array, Dictionary, Set)
+> - **[2020/09/25](https://github.com/LoganiOS/MasteringSwift/blob/main/200925.md)**     커스텀 데이터 타입: 구조체와 클래스 (enum, struct, class)
 
