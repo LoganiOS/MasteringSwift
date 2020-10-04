@@ -17,5 +17,5 @@
 > - **[2020/09/20](https://github.com/LoganiOS/MasteringSwift/blob/main/200920.md)**     컬렉션 (Array, Dictionary, Set)
 > - **[2020/09/25](https://github.com/LoganiOS/MasteringSwift/blob/main/200925.md)**     커스텀 데이터 타입: 구조체와 클래스 (enum, struct, class)
 > - **[2020/09/26](https://github.com/LoganiOS/MasteringSwift/blob/main/200926.md)**     속성과 메소드 (Property, Method)
-> - **[2020/09/28](https://github.com/LoganiOS/MasteringSwift/blob/main/200926.md)**     상속과 재정의, 타입캐스팅 (Inheritance, Overriding, Type Casting)
+> - **[2020/09/28](https://github.com/LoganiOS/MasteringSwift/blob/main/200928.md)**     상속과 재정의, 타입캐스팅 (Inheritance, Overriding, Type Casting)
 
