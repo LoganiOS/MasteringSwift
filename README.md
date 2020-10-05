@@ -1,4 +1,4 @@
-###### IiOS Maestro Camp
+###### tializerIiOS Maestro Camp
 
 ## Mastering Swift
 
@@ -18,4 +18,6 @@
 > - **[2020/09/25](https://github.com/LoganiOS/MasteringSwift/blob/main/200925.md)**     커스텀 데이터 타입: 구조체와 클래스 (enum, struct, class)
 > - **[2020/09/26](https://github.com/LoganiOS/MasteringSwift/blob/main/200926.md)**     속성과 메소드 (Property, Method)
 > - **[2020/09/28](https://github.com/LoganiOS/MasteringSwift/blob/main/200928.md)**     상속과 재정의, 타입캐스팅 (Inheritance, Overriding, Type Casting)
+> - **[2020/10/06](https://github.com/LoganiOS/MasteringSwift/blob/main/201006.md)**     인스턴스 초기화 (Initializers)
+> - 
 
