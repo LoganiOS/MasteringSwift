@@ -1,4 +1,4 @@
-###### tializerIiOS Maestro Camp
+###### iOS Maestro Camp
 
 ## Mastering Swift
 
@@ -20,3 +20,4 @@
 > - **[2020/09/28](https://github.com/LoganiOS/MasteringSwift/blob/main/200928.md)**     상속과 재정의, 타입캐스팅 (Inheritance, Overriding, Type Casting)
 > - **[2020/10/06](https://github.com/LoganiOS/MasteringSwift/blob/main/201006.md)**     인스턴스 초기화 (Initializers)
 > - **[2020/10/07](https://github.com/LoganiOS/MasteringSwift/blob/main/201007.md)**     익스텐션 (Extensions)
+
