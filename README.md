@@ -21,4 +21,4 @@
 > - **[2020/10/06](https://github.com/LoganiOS/MasteringSwift/blob/main/201006.md)**     인스턴스 초기화 (Initializers)
 > - **[2020/10/07](https://github.com/LoganiOS/MasteringSwift/blob/main/201007.md)**     익스텐션 (Extensions)
 > - **[2020/10/28](https://github.com/LoganiOS/MasteringSwift/blob/main/201028.md)**     프로토콜 (Protocol)
-
+> - **[2020/11/04](https://github.com/LoganiOS/MasteringSwift/blob/main/201104.md)**     메모리와 참조카운트
